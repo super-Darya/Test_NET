@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test_Zhitova", "Test_Zhitova\Test_Zhitova.csproj", "{89FE99A6-BBC9-49AE-A281-A9DCC9451E1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSTest_Zhitova", "MSTest_Zhitova\MSTest_Zhitova.csproj", "{0B29DAE7-3F82-44CE-8E7F-972FA38C678C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89FE99A6-BBC9-49AE-A281-A9DCC9451E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89FE99A6-BBC9-49AE-A281-A9DCC9451E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89FE99A6-BBC9-49AE-A281-A9DCC9451E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89FE99A6-BBC9-49AE-A281-A9DCC9451E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B29DAE7-3F82-44CE-8E7F-972FA38C678C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B29DAE7-3F82-44CE-8E7F-972FA38C678C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B29DAE7-3F82-44CE-8E7F-972FA38C678C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B29DAE7-3F82-44CE-8E7F-972FA38C678C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E7F0FDD-28DF-45AB-B0EC-4FBD291CE6B1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+[
+    { "ID": 1, "Weight": 10, "District": "area1", "DateDeliveryTime": "2024-10-24 00:01:01"},
+    { "ID": 2, "Weight": 20, "District": "area2", "DateDeliveryTime": "2024-10-24 00:10:01"},
+    { "ID": 3, "Weight": 30, "District": "area3", "DateDeliveryTime": "  2024-10-24 01:01:01"},
+    { "ID": 4, "Weight": 30.5, "District": "area3", "DateDeliveryTime": "2024-10-24 02:01:01  "},
+    { "ID": 5, "Weight": 30.5, "District": "area1", "DateDeliveryTime": "2024-10-24 00:40:01"},
+    { "ID": 6, "Weight": 30, "District": "", "DateDeliveryTime": "2024-10-24 05:01:01"},
+    { "ID": 7, "Weight": 30, "District": "area2", "DateDeliveryTime": "2024-10-24 05:05:01"},
+    { "ID": 8, "Weight": 0, "District": "area1", "DateDeliveryTime": "  2024-10-24 00:20:01"},
+    { "ID": 9, "Weight": 30, "District": "area3", "DateDeliveryTime": "2024-10-24 01:30:01"}
+]
