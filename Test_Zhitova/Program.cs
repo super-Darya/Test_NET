@@ -1,5 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-//Console.WriteLine("Hello, World!");
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -84,7 +82,6 @@ namespace Test_Zhitova
                 if (!File.Exists(filePath))
                 {
                     throw new ArgumentException("Файл по данному пути не был найден");
-
                 }
                 // Читаем содержимое файла
                 string jsonData = File.ReadAllText(filePath);
